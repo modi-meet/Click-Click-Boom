@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://your-vercel-link.vercel.app/">🌐 Live Demo</a> •
+  <a href="https://click-click-boom.vercel.app/">🌐 Live Demo</a> •
   <a href="#features">Features</a> •
   <a href="#tech-stack-">Tech Stack</a> •
   <a href="#️-getting-started">Getting Started</a>
