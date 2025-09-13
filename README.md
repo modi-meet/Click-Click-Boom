@@ -1,12 +1,64 @@
-# React + Vite
+<h1 align="center">🚀 Click-Click-Boom</h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<p align="center">
+  A simple counter that decided to be extra. <br />
+  It's a clicker experience with personality, built with <b>React</b> and <b>Vite</b>.
+</p>
 
-Currently, two official plugins are available:
+<p align="center">
+  <a href="https://your-vercel-link.vercel.app/">🌐 Live Demo</a> •
+  <a href="#features">Features</a> •
+  <a href="#tech-stack-">Tech Stack</a> •
+  <a href="#️-getting-started">Getting Started</a>
+</p>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+This project started as a basic counter and evolved into an engaging, interactive web application.  
+It demonstrates how to enhance user experience with dynamic feedback, animations, and **state management**.
+
+- **Dynamic Messages:** Text changes based on your click count, encouraging you along the way.  
+- **Progress Bar:** Shows how close you are to your first milestone.  
+- **Milestone Celebrations:** At **100 clicks**, an in-component confetti celebration appears.  
+- **Super Celebration:** At **115 clicks**, a page-wide animation & confetti storm are unleashed!  
+- **Modern UI with CSS:** Clean design, hover effects, and button animations.  
+- **State Lifting:** Demonstrates the React concept of "lifting state up" for parent-child communication.  
+
+---
+
+##  Tech Stack 💻
+
+- **React** → UI library  
+- **Vite** → Build tool & dev server  
+- **CSS3** → Custom styling, gradients, animations  
+- **react-confetti** → Celebration effects  
+
+---
+
+## 🛠️ Getting Started
+
+Run this project locally with a few simple steps:
+
+### 1️⃣ Clone the repository
+```bash
+git clone https://github.com/modi-meet/Click-Click-Boom.git
+```
+
+2️⃣ Navigate to the project directory
+```bash
+cd Click-Click-Boom
+```
+
+3️⃣ Install dependencies
+```bash
+npm install
+```
+
+4️⃣ Run the development server
+```bash
+npm run dev
+```
+
+Now open your browser at 👉 `http://localhost:5173`
